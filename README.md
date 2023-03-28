@@ -1,3 +1,3 @@
-# purescript-lua-library-template
+# purescript-lua-prelude
 
-Template repository for a [PureScript Lua](https://github.com/Unisay/purescript-lua) library.
+Prelude library for the [PureScript Lua](https://github.com/Unisay/purescript-lua).
