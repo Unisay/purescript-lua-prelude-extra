@@ -874,17 +874,14 @@
         ]
       },
       "locked": {
-        "lastModified": 1680034784,
-        "narHash": "sha256-HTgi44bd8Unl32TDktQpAuHtGtHwzJ5Y57Ms6t/zRrE=",
-        "owner": "Unisay",
-        "repo": "purescript-lua",
-        "rev": "180fcab21abfb8af5274cf595942dd893ee292ad",
-        "type": "github"
+        "lastModified": 1680038937,
+        "narHash": "sha256-XiGytr8poM8p6W5cWzQd+2g0fwlCJwkOoboOZM3/u98=",
+        "type": "git",
+        "url": "file:///home/yura/projects/purescript/purescript-lua/purescript-lua"
       },
       "original": {
-        "owner": "Unisay",
-        "repo": "purescript-lua",
-        "type": "github"
+        "type": "git",
+        "url": "file:///home/yura/projects/purescript/purescript-lua/purescript-lua"
       }
     },
     "root": {

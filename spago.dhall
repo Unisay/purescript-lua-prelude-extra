@@ -1,13 +1,13 @@
 { name = "purescript-lua-library"
-, dependencies = [ "prelude", "effect", "console" ]
+, dependencies = [ "prelude" ]
 , packages = ./packages.dhall
-, sources = [ "src/**/*.purs", "test/**/*.purs" ]
+, sources = [ "src/**/*.purs" ]
 , backend =
     ''
     pslua \
     --foreign-path foreign \
     --ps-output output \
-    --lua-output-file dist/lib.lua \
-    --entry Lib
+    --lua-output-file dist/Prelude.lua \
+    --entry Lua.Prelude
     ''
 }

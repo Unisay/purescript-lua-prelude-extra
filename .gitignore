@@ -1,5 +1,6 @@
 .psci_modules
 .psci
 .psc-ide-port
-.spago
+/.spago
+.vscode
 output
